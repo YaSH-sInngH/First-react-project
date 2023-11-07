@@ -1,0 +1,39 @@
+const serviceData = [
+    {
+        id:1,
+        image:'/images/body-building.jpg',
+        serviceName:'Body-Building'
+    },
+    {
+        id:2,
+        image:'/images/yoga.jpg',
+        serviceName:'Yoga'
+    },
+    {
+        id:3,
+        image:'/images/zumba.jpg',
+        serviceName:'Zumba'
+    },
+    {
+        id:4,
+        image:'/images/fitness.jpg',
+        serviceName:'Fitness-Training'
+    },
+    {
+        id:5,
+        image:'/images/climbing.jpg',
+        serviceName:'Mountain-Climbing'
+    },
+    {
+        id:6,
+        image:'/images/swimming.jpg',
+        serviceName:'Swimming'
+    },
+    {
+        id:7,
+        image:'/images/weight-lifting.jpg',
+        serviceName:'Weight-Lifting'
+    }
+]; 
+
+export default serviceData;
